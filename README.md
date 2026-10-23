@@ -40,7 +40,6 @@ A modern clothing website built with **React and Vite**, created to practice Rea
 ## 👩‍💻 Author
 
 - GitHub: [@UfaqFatima786](https://github.com/UfaqFatima786)
----
 
 ⭐ If you find this project interesting, consider giving the repository a star!
 
