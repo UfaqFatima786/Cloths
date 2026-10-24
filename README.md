@@ -25,7 +25,7 @@ A modern clothing website built with **React and Vite**, created to practice Rea
 - **JavaScript** — Application logic
 - **Vite** — Development server and build tool
 - **HTML5** — Web structure
-- **CSS3** — Styling
+- **TailwindCSS** — For Styling
 - **ESLint** — Code quality and linting
 - **Vercel** — Deployment
 
